@@ -1,2 +1,3 @@
 # 110lab1
 Mattthew Gross's User Page
+Python is pretty cool I guess...
