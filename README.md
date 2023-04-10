@@ -1,3 +1,4 @@
-# 110lab1
+# CSE 110 Lab #1
 Mattthew Gross's User Page
-Python is pretty cool I guess...
+[](link.com)
+### Python is pretty cool I guess...
