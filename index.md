@@ -63,5 +63,5 @@ You should click this
 while you're at it! It's very useful!
 
 ### Some Stuff I'd Like to Accomplish
-- [x] Finish Lab 1
-- [ ] Add a third item to this list...
+- [x]  Finish Lab 1
+- [ ]  Add a third item to this list...
